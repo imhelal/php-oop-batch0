@@ -1,0 +1,21 @@
+Object in JS
+
+let car = {
+	'name' = 'Volvo',
+	'model' = '4534',
+	'start' = function(){
+
+	}	
+}
+
+car.name
+car.model
+car.start()
+
+let man = {
+	name = 'Abdullah',
+	age = 435,
+	run = function(){
+
+	}
+}

@@ -4,7 +4,7 @@ class Car {
 	public $name = "Volvo";
 	public $model = "453";
 
-	protected function start(){
+	public function start(){
 		echo 'Car is runing!';
 	}
 }
